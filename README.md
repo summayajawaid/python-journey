@@ -50,7 +50,6 @@ python-journey/
 * Gradual progression from simple to complex problems
 * Focus on clarity, readability, and best practices
 
-
 ## Future Goal
 
 The ultimate goal of this journey is to build a **fully functional Automated Assistant (AI-based project)**.
