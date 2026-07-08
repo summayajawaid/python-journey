@@ -1,7 +1,7 @@
 # python-journey
 A structured Python learning repository covering fundamentals to advanced concepts, focused on problem-solving, clean coding, and real-world application development. This journey leads to building an AI-based automated assistant as a final project.
 
-##  Overview
+#  Overview
 
 **Python Journey** is a personal learning repository where I practice, implement, and refine Python concepts. The goal is to build a strong foundation in programming while progressively moving towards advanced development and real-world problem solving.
 
